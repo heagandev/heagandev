@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi I'm Heagan Henry
+- ⚡ I'm interested in Web development, Game development and AI/ML
+- 🌱 I build cool stuff with React, Node, Express, MongoDB and Three.js
+- 🏢 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
+- 📫 You can reach me at heaganhenry@gmail.com
 
 <!--
 **heaganhenry/heaganhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
