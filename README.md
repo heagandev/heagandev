@@ -1,6 +1,6 @@
 - 👋 Hi I'm Heagan Henry
 - 🔭 I'm interested in AI/ML, Web development and Game development
-- 🌱 I build cool stuff with React.js, Node.js, Express.js, MongoDB and Three.js
+- 🌱 I build cool stuff with React, Node, Express, LangChain, MongoDB and Three.js
 - 👥 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
 - 📫 You can reach me at heaganhenry@gmail.com
 
