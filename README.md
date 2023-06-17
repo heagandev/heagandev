@@ -1,6 +1,6 @@
 - 👋 Hi I'm Heagan Henry, a Full Stack Software Engineer
 - 🔭 I'm interested in AI/ML, Web development and Game development
-- 🌱 I build cool stuff with React, Node, Express, LangChain and Python
+- 🌱 I build cool stuff with React.js, Node.js, Three.js, LangChain, Python etc
 - 👥 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
 - 📫 You can reach me at heaganhenry@gmail.com
 
