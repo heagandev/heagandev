@@ -1,6 +1,6 @@
 - 👋 Hi I'm Heagan Henry, a self taught Software Engineer
 - 🔭 I'm interested in AI/ML, Web development and Game development
-- 🌱 I build cool stuff with React.js, Node.js, Three.js, LangChain, Python etc
+- 🌱 I build cool stuff with React.js, Node.js, Python, LangChain etc
 - 👥 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
 - 📫 You can reach me at heaganhenry@gmail.com
 
