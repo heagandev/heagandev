@@ -1,6 +1,6 @@
 - 👋 Hi I'm Heagan, a self taught software developer
 - 🔭 I'm interested in AI/ML, web development and game development
-- 🌱 I build cool stuff with react.js, node.js, three.js etc
+- 🤖 I build cool stuff with react.js, node.js, three.js and Godot 
 - 👥 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
 - 📫 You can reach me at heaganhenry@gmail.com
 
