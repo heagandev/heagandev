@@ -1,8 +1,6 @@
 - 👋 Hi I'm Heagan, a self taught software developer
 - 🔭 I'm interested in game development, web development and AI/ML
 - 🤖 I build cool stuff with Godot, react.js, node.js and three.js 
-- 👥 My LinkedIn profile is https://www.linkedin.com/in/heaganhenry/
-- 📫 You can reach me at heaganhenry@gmail.com
 
 <!--
 **heaganhenry/heaganhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
