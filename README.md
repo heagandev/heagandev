@@ -1,6 +1,6 @@
 - 👋 Hi I'm Heagan, a self taught software developer
 - 🔭 I'm interested in game and web development
-- 🌱 I’m currently learning Godot and making my first game
+- 🌱 I’m currently making my first game with Godot
 
 <!--
 **heaganhenry/heaganhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
