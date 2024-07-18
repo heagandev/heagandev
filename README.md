@@ -1,5 +1,6 @@
 - 👋 Hi I'm Heagan, a self taught software developer
-- 🔭 I'm interested in game and web development
+- 🔭 I'm interested in web and game development
+- 👨🏾‍💻 I'm experienced with typescript, react.js and node.js
 - 🌱 I’m currently making my first game with Godot
 
 <!--
