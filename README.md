@@ -1,7 +1,7 @@
 - 👋 Hi I'm Heagan, a self taught software developer
 - 🔭 I'm interested in web and game development
 - 👨🏾‍💻 I'm experienced with typescript, react.js, node.js and three.js
-- 🤖 I’m currently coding a game with vibes
+- 🤖 I'm cooking sumn with vibes
 
 <!--
 **heaganhenry/heaganhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
