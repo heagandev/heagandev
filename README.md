@@ -1,6 +1,5 @@
-- 👋 Hi I'm Heagan, a self taught software developer
-- ⚡ I'm interested in web and game development
-- 👨🏾‍💻 I'm experienced with python, typescript, react.js, node.js and three.js
+- 👨🏾‍💻 Hi I'm Heagan, a self taught software developer
+- ⚡ I'm experienced with python, typescript, react.js, node.js and three.js
 - 🔥 I'm making a multiplayer game with gemini-cli, using phaser.js and colyseus.js
 
 <!--
