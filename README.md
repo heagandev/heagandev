@@ -1,5 +1,5 @@
 - 👨🏾‍💻 Hi I'm Heagan, a self taught software developer
-- ⚡ I'm experienced with python, typescript, react.js, node.js and three.js
+- ⚡ I'm experienced with python, typescript, react.js and node.js
 - 🔥 I'm making a multiplayer game with phaser.js and colyseus.js
 
 <!--
