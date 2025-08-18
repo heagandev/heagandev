@@ -1,6 +1,6 @@
 - 👨🏾‍💻 Hi I'm Heagan, a self taught software developer
 - ⚡ I'm experienced with python, typescript, react.js, node.js and three.js
-- 🔥 I'm making a multiplayer game with gemini-cli, using phaser.js and colyseus.js
+- 🔥 I'm making a multiplayer game using phaser.js and colyseus.js
 
 <!--
 **heaganhenry/heaganhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
