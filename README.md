@@ -1,3 +1,3 @@
 - 👨🏾‍💻 Hi I'm Heagan, a self taught software developer
 - ⚡ I'm experienced with python, typescript, react.js and node.js
-- 🤖 building a multiplayer game with vibes
+- 🤖 I'm building online game with vibes
