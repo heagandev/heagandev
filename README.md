@@ -1,4 +1,3 @@
-- 👨🏾‍💻 Hi, I'm Heagan — a self-taught developer building tools for game devs
-- 🔥 Creator of [threejs-agent-starter](https://github.com/heagandev/threejs-agent-starter) — drop it in, describe your game, watch it come to life
-- ⚡ Building AI-first dev kits for 3D browser game development with Three.js
-- 🎮 Grab the free starter pack → [heagandev.gumroad.com](https://heagandev.gumroad.com/l/hdev-starter)
+- 👨🏾‍💻 Hi I'm Heagan, a self taught software developer
+- ⚡ I'm experienced with python, typescript, react.js and node.js
+- 🤖 building a multiplayer game with vibes
